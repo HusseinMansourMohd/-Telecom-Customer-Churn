@@ -2,6 +2,7 @@
 ### Predicting Customer Churn - Market Analysis
 This project involves predicting customer churn for a company in a particular industry. We will use market analysis data, as well as customer data, to build a predictive model for customer churn. The project will use both XGBoost and logistic regression algorithms to build the model.
 
+
 ### Project Overview
 The main goal of this project is to build a predictive model for customer churn. We will use market analysis data, as well as customer data, to build the model. We will then evaluate the model's performance and compare the performance of the XGBoost and logistic regression algorithms.
 
